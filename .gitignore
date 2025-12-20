@@ -1,0 +1,28 @@
+# Environment variables
+.env
+.env.*
+*.local
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Build / generated files
+dist/
+build/
+generated_ads/
+generated_ad.png
+
+# Logs
+*.log
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+INSTAGRAM_SETUP.md
+unused/
